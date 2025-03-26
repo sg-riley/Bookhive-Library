@@ -16,3 +16,8 @@ Merupakan web yang dirancang untuk membantu manajemen perpustakaan mulai dari pe
   
   - Email : yoga@gmail.com
   - Password : Yoga123!
+
+- Login Admin:
+  
+  - Email : munyuk@gmail.com
+  - Password : Munyuk123!
